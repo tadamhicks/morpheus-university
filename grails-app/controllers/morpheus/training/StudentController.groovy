@@ -20,7 +20,7 @@ class StudentController {
     def create() {
         //respond new Student(params)
         def video = Student(params)
-        def videoCategory = 
+        //def videoCategory = 
     }
 
     @Transactional
